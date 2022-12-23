@@ -13,14 +13,11 @@ for ind in range(len(cs)):
     if(len(all_f) == 0):
         data_dir = './data/' + cs[ind] + '/*.TXT'
         all_f = glob(data_dir)
-    # print(all_f)
     for f in all_f:
         a = open(f,'r')
         data = [float(i) for i in a.readlines()]
         x.append(data)
         y.append(ind)
-        # print(data)
-        # print(len(data))
 
 x = np.array(x)
 y = np.array(y)
