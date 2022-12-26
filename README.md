@@ -147,6 +147,16 @@ _For more examples, please refer to the [Documentation](https://github.com/msade
    - **Sample** > [More Details](https://en.wikipedia.org/wiki/Sample_entropy)
     - **Spectral** > [More Details](https://www.mathworks.com/help/signal/ref/pentropy.html)
 
+3. > Heuristic features of signals
+   - **Zero Crossing Rate** > [More Details](https://en.wikipedia.org/wiki/Zero-crossing_rate)
+   - **Peak 2 Peak** > [More Details](https://www.techopedia.com/definition/16550/peak-to-peak-pk-pk)
+   - **Power Spectral Density** > [More Details](https://en.wikipedia.org/wiki/Spectral_density)
+   - **Signal** > [More Details](https://en.wikipedia.org/wiki/Energy_(signal_processing))
+
+4. > Frequency-Based features of signals
+  - **Fast Fourier Transform (FFT)** > [More Details](https://en.wikipedia.org/wiki/Fast_Fourier_transform)
+  - **2-D Fast Fourier Transform (FFT2)** > [More Details](https://www.mathworks.com/help/matlab/ref/fft2.html)
+
 See the [open issues](https://github.com/msadeqsirjani/eeg-based-epilepsy-detection/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
