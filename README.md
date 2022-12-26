@@ -1,2 +1,2 @@
 # EEG-based epilepsy detection
- Examining EEG brain signals of people with epilepsy
+ The aim of this project is to extract features from brain EEG signals of patients with epilepsy.
