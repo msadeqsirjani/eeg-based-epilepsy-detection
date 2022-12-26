@@ -130,6 +130,27 @@ _For more examples, please refer to the [Documentation](https://github.com/msade
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Roadmap
+
+1. > Statistical features of signals
+   - **Variance**
+   - **Mean**
+   - **Median**
+   - **Max**
+   - **Min**
+   - **Standard Deviation**
+   - **Square Root**
+2. > Entropic features of signals
+   - **Permutation** > [More Details](https://www.aptech.com)
+   - **Singular Value Decomposition** > [More Details](https://ieeexplore.ieee.org)
+   - **Approximate** > [More Details](https://en.wikipedia.org/wiki/Approximate_entropy)
+   - **Sample** > [More Details](https://en.wikipedia.org/wiki/Sample_entropy)
+    - **Spectral** > [More Details](https://www.mathworks.com/help/signal/ref/pentropy.html)
+
+See the [open issues](https://github.com/msadeqsirjani/eeg-based-epilepsy-detection/issues) for a full list of proposed features (and known issues).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- CONTRIBUTING -->
 
 ## Contributing
